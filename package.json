@@ -1,0 +1,19 @@
+{
+  "name": "ascii-art-ts",
+  "version": "1.0.0",
+  "description": "ASCII art generator in TypeScript",
+  "main": "dist/ascii_art.js",
+  "scripts": {
+    "start": "node dist/ascii_art.js",
+
+    "serve": "node dist/ascii_art.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+    "chalk": "^5.x.x",
+    "figlet": "^1.x.x"
+  }
+}
